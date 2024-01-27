@@ -177,3 +177,10 @@ body{
     margin: 10px; /* Добавьте небольшой отступ между изображениями */
   }
 }
+
+@media(max-width:470px)
+{
+	.menu>nav>ul>li{
+		font-size: 12px;
+	}
+}
